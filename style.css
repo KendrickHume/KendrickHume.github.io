@@ -115,3 +115,14 @@ input[type="submit"] {
     margin-right: auto;
     margin-left: auto;
 }
+
+#u45 {
+    height: 40%;
+    width: 40%;
+    transition: height, width 2s;
+}
+
+#u45:hover {
+    height: 100%;
+    width: 100%;
+}
